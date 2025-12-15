@@ -1,4 +1,4 @@
-# 🌦 WeatherAUS Machine Learning Project
+# WeatherAUS Machine Learning Project
 
 ## Project Overview
 This project aims to analyze Australian weather data and predict  
