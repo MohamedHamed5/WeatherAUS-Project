@@ -1,48 +1,55 @@
-\# WeatherAUS Machine Learning Project
+# 🌦 WeatherAUS Machine Learning Project
 
+## Project Overview
+This project aims to analyze Australian weather data and predict  
+whether it will **rain tomorrow or not** using machine learning classification models.
 
+---
 
-This project analyzes and classifier if it will Rain tomorrow or No weather conditions in Australia using machine learning techniques.
+## Dataset
+- **File:** `weatherAUS.csv`
+- **Description:** The original dataset
+- **Cleaned_File:** `weatherAUS_cleaned_final.csv`
+- **Description:** Cleaned and preprocessed weather dataset
+- *Note:* The dataset is large, so GitHub cannot preview it directly.
 
+---
 
+## Project Workflow
+1. Data Cleaning  
+2. Exploratory Data Analysis (EDA)  
+3. Handling Imbalanced Data using **SMOTE**  
+4. Training Classification Models  
+5. Model Evaluation and Comparison  
 
-\## Dataset
+---
 
-\- weatherAUS.csv
+## Machine Learning Models
+- Logistic Regression  
+- Linear SVM  
+- Random Forest  
+- XGBoost  
 
-\- Note: File is large, GitHub cannot preview it.
+---
 
+## Evaluation Metrics
+- Accuracy  
+- Precision  
+- Recall  
+- F1-score  
+- Confusion Matrix  
 
+---
 
-\## Steps
+## Tools & Libraries
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Imbalanced-learn (SMOTE)  
+- XGBoost  
 
-1\. Data cleaning
+---
 
-2\. Exploratory Data Analysis
-
-3\. Handling imbalanced data using SMOTE
-
-4\. Training classification models
-
-5\. Model evaluation
-
-
-
-\## Models
-
-\- Logistic Regression
-
-\- Linear SVM
-
-\- Random Forest
-
-\- XGBoost
-
-
-
-\## Author
-
-Mohamed Hamed
-
-
-
+## Author
+**Mohamed Ahmed Hamed**
